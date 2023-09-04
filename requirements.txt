@@ -32,9 +32,7 @@ youtube-search-python==1.4.6
 yt-dlp
 youtube-dl
 requests
-aiohttp==3.7.4
 gTTS
-googletrans==3.1.0a0
 telegraph
 PyPDF2
 ujson
@@ -48,14 +46,12 @@ psutil==5.9.4
 speedtest-cli
 asgiref
 python-dotenv
-openai==0.25.0
 python-telegram-bot==12.8
 pillow==9.5.0
 telegraph
 doodstream
 unshortenit
 mdisky
-### googletrans==4.0.0-rc1 ###
 python-decouple
 ffmpeg-python>=0.2.0
 ytthumb
