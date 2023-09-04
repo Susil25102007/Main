@@ -72,4 +72,4 @@ async def song(_, message):
               await message.reply_text(f"ᴩᴏᴡᴇʀᴇᴅ ʙʏ - @RSK_MOVIEz")
               return await k.delete() 
           except:
-              pas
+              pass
